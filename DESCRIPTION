@@ -1,0 +1,16 @@
+Package: t.sample
+Title: Sample Techiniques
+Version: 0.0.1
+Authors@R: person("Marco Aurelio", "Valles Leal", 
+                    email = "ra103159@uem.br", 
+                    role = c("aut", "cre"))
+Description: A package to auxiliate on calculation of estimate values for Sampling Techniques.
+Depends: R (>= 3.3.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+Packaged: 2019-06-27 18:25:22 UTC; MLeal
+Author: Marco Aurelio Valles Leal [aut, cre]
+Maintainer: Marco Aurelio Valles Leal <ra103159@uem.br>

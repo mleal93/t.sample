@@ -1,0 +1,8 @@
+"0","knitr::opts_chunk$set(echo = FALSE)"
+"2","Warning message:
+"
+"2","In readLines(con, warn = FALSE) :"
+"2","
+ "
+"2"," invalid input found on input connection 'regressao.Rmd'
+"
